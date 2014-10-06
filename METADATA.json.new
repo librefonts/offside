@@ -1,0 +1,33 @@
+{
+  "name": "Offside",
+  "designer": "Eduardo Tunni",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Display",
+  "size": 15471,
+  "fonts": [
+    {
+      "name": "Offside",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Offside-Regular-TTF.ttf",
+      "postScriptName": "Offside-Regular",
+      "fullName": "Offside",
+      "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Offside'"
+    },
+    {
+      "name": "Offside",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Offside-Regular.ttf",
+      "postScriptName": "Offside-Regular",
+      "fullName": "Offside",
+      "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Offside'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-10-26"
+}
